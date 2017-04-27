@@ -27,6 +27,18 @@ Click on one of the 6 notebook modules to get started!
 
 5. Image Processing - This module shows how to analyze images and identify specific features in images.
 
-6. K-means Clustering - This module teaches how to use `for` loops to implement basic machine learning.
+6. K-Means Clustering - This module teaches how to use `for` loops to implement basic machine learning.
 
 ## 4. Assignments
+
+1. Exercises (points) - 
+
+2. Lists (points) - 
+
+3. Loops (points) -
+
+4. Computational Genomics (points) - 
+
+5. Image Processing (points) - 
+
+6. K-Means Clustering (points) - 
