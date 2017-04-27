@@ -7,8 +7,26 @@ Once you have downloaded the installer and installed Anaconda, open up the **Ana
 Click on the 'Launch' button for Jupyter notebook.
 
 ## 2. Python Tutorial Instructions
-Download the .zip file of this Github repository by clicking on the green 'Clone or download' button.
+Download the .zip file of this Github repository by clicking on the green 'Clone or download' button in the top right.
 
 Unzip this file in your documents, desktop, or other preferred directory.
 
 From the Jupyter notebook console in your browser, navigate to this directory.
+
+Click on one of the 6 notebook modules to get started!
+
+## 3. Table of Contents
+
+1. An Introduction to Python - This module is for beginner programmers who have little or no prior programming experience. It is also for experienced programmers who are new to Python.
+
+2. Lists - This module is an overview of lists, one of the most important Python data structures, and their applications.
+
+3. Loops - This module teaches how to use while and for loops to perform calculations and run biological simulations.
+
+4. Computational Genomics - This module explores how Python programming can be used to perform genomics related tasks.
+
+5. Image Processing - This module shows how to analyze images and identify specific features in images.
+
+6. 
+
+## 4. 
