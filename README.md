@@ -21,12 +21,12 @@ Click on one of the 6 notebook modules to get started!
 
 2. Lists - This module is an overview of lists, one of the most important Python data structures, and their applications.
 
-3. Loops - This module teaches how to use while and for loops to perform calculations and run biological simulations.
+3. Loops - This module teaches how to use `while` and `for` loops to perform calculations and run biological simulations.
 
 4. Computational Genomics - This module explores how Python programming can be used to perform genomics related tasks.
 
 5. Image Processing - This module shows how to analyze images and identify specific features in images.
 
-6. 
+6. K-means Clustering - This module teaches how to use `for` loops to implement basic machine learning.
 
-## 4. 
+## 4. Assignments
