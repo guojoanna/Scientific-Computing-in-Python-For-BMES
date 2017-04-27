@@ -6,4 +6,9 @@ Once you have downloaded the installer and installed Anaconda, open up the **Ana
 
 Click on the 'Launch' button for Jupyter notebook.
 
-## 2. 
+## 2. Python Tutorial Instructions
+Download the .zip file of this Github repository by clicking on the green 'Clone of download' button.
+
+Unzip this file in your documents, desktop, or other preferred directory.
+
+From the Jupyter notebook console in your browser, navigate to this directory.
